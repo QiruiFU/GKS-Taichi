@@ -32,3 +32,5 @@ frames/
 Thumbs.db
 .vscode/
 .idea/
+.agents/
+.codex/
