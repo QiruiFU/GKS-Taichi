@@ -23,6 +23,7 @@ outputs/
 output/
 results/
 frames/
+tgv_frames/
 *.log
 *.npy
 *.npz
